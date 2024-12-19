@@ -1,0 +1,37 @@
+.box1{
+    background-color: #8165654A;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1520px;
+}
+.Home{
+    padding-left: 800px;
+}
+.sub-class{
+    height: 600px;
+    width: 1520px;
+    position: relative;
+    display: inline-block;
+   
+}
+.text-on-image{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    font-size: 34px;
+    font-weight: bold;   
+}
+.text1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 64%;
+    font-weight: bold;
+}
+.text2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 64%;
+    font-weight: bold;
+}

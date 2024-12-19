@@ -1,0 +1,75 @@
+.mainBox{
+    background-color: pink;
+    height: 750px;
+    width: 1500px;
+}
+.Container1{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-evenly;
+  
+
+   
+}
+.Container2{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+    
+}
+.Container3{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+    
+}
+
+.box1{
+    background-color: red;
+    height: 183px;
+    width: 193px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.box2{
+    background-color: red;
+    height: 183px;
+    width: 193px;
+    margin-right:300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.box3{
+    background-color: red;
+    height: 183px;
+    width: 193px;
+    margin-left:300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.box4{
+    background-color: red;
+    height: 183px;
+    width: 193px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.box5{
+    background-color: red;
+    height: 183px;
+    width: 193px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.box6{
+    background-color: red;
+    height: 183px;
+    width: 193px;
+    margin-right: 300px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}

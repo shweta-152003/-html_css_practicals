@@ -1,0 +1,38 @@
+.main{
+   
+    background-color: rgba(245, 160, 160, 1);
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 1520px;
+}
+
+.text2{
+    
+    padding-left:800px;
+ }
+ .sub{
+    background-color: rgb(177, 211, 223);
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    width: 1520px;
+    justify-content: space-evenly;   
+  
+   
+ }
+ .box1{
+    background-color:rgba(217, 217, 217, 1);
+    height: 393px;
+    width: 505px;
+   margin: 50px;
+    
+   
+ }
+ .box2{
+    height: 323px;
+    width: 450px;
+    margin: 100px;
+   
+ }
